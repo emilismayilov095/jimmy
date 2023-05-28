@@ -1,4 +1,3 @@
-import Foundation
 
 #if canImport(UIKit)
 
@@ -12,6 +11,6 @@ extension Jimmy {
             closure()
         }
     }
-} 
+}
 
 #endif
