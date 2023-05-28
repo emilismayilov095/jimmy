@@ -12,6 +12,6 @@ extension Jimmy {
             closure()
         }
     }
-} 
+}
 
 #endif
